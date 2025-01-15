@@ -1,4 +1,8 @@
 <?php
+
+
+
+
 use App\Http\Controllers\GreetingController;
 use Illuminate\Support\Facades\Route;
 
